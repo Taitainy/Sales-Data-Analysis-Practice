@@ -28,3 +28,8 @@ Based on the analysis made, these are the findings
 ## Tools Used
 - Microsoft Excel
 
+## Skills Practiced
+- Data Cleaning
+- Sorting and Filtering
+- Basic Excel formulas (IF)
+- Created simple charts
