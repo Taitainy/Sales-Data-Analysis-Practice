@@ -25,3 +25,6 @@ Based on the analysis made, these are the findings
 4.	The analysis showed that the Adults (30 – 49) made the most purchase.
 5.	The highest selling category was the “set”
 
+## Tools Used
+- Microsoft Excel
+
