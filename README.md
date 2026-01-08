@@ -16,3 +16,12 @@ Vrinda store wants to create an annual sales report for 2022. So that, Vrinda ca
 6.	Relation between age and gender based on number of orders
 7.	Which channel is contributing to maximum sales?
 8.	Highest selling category
+
+## Insights
+Based on the analysis made, these are the findings
+1.	Women purchased more goods from the store with a figure of 21,553 which is no surprising considering the store was more female-focused
+2.	For the order status, Returned showed a significant figure of 1045 which can be alarming because it gives an assumption that there could be a defect of the goods being sold in the store.
+3.	MAHARASHTRA has the highest number of purchase made
+4.	The analysis showed that the Adults (30 – 49) made the most purchase.
+5.	The highest selling category was the “set”
+
