@@ -33,3 +33,6 @@ Based on the analysis made, these are the findings
 - Sorting and Filtering
 - Basic Excel formulas (IF)
 - Created simple charts
+
+## Dashboard
+<img width="960" height="540" alt="Screenshot 2026-01-08 161902" src="https://github.com/user-attachments/assets/31a0e69a-49a5-438c-acd4-e15195177f4b" />
